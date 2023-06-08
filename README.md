@@ -1,5 +1,8 @@
 # Reveal.js + Svelte + Vite + TailwindCSS
 
+> This document was edited by `devcomfort`.
+> If you find an error or have any questions, please feel free to email me.
+
 ![Svelte Slides logo](public/svelte-slides.jpg)
 
 This template should help get you started creating awesome slide decks using [Reveal.js](https://revealjs.com) with Svelte in Vite.
@@ -114,7 +117,7 @@ This project is inspired by [svelte-reveal-boilerplate](https://github.com/micsc
 
 ## Recommended IDE Setup
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+[VS Code](https://code.visualstudio.com/) + [svelte](https://marketplace.visualstudio.com/items?itemName=1YiB.svelte-bundle).
 
 ## References
 - [Svelte](https://svelte.dev)
